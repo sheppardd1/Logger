@@ -9,8 +9,12 @@ This program is designed to be run in a Linux environment. The user calls the pr
 * When finished, press ENTER, type "endlog", and press ENTER again
 ### Example
 Command Line:
+
 <img src="log.png" width="589" height="229">
+
 Log File:
+
 <img src="log.png" width="590" height="264">
+
 ## Notes
 Perl must be installed on your machine for the program to run.
