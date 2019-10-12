@@ -10,7 +10,7 @@ This program is designed to be run in a Linux environment. The user calls the pr
 ### Example
 Command Line:
 
-<img src="log.png" width="589" height="229">
+<img src="log_command_line.png" width="589" height="229">
 
 Log File:
 
